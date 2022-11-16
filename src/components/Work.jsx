@@ -30,7 +30,7 @@ function Work() {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://frontend-mentor-country-pedia.netlify.app/"
+                  href=""
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
@@ -39,7 +39,7 @@ function Work() {
                 </a>
 
                 <a
-                  href="https://github.com/abdellahelaajjouri/Reast-api-coutry"
+                  href=""
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
